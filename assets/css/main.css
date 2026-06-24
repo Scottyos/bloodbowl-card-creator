@@ -263,12 +263,12 @@ canvas {
 }
 .btn-link {
     font-weight: 400;
-    color: #000;
+    color: #000000;
 }
 .btn-link:hover {
     font-weight: 400;
     font-weight: bold;
-    color: #000;
+    color: #000000;
 }
 
 /* .flex-wrap > div {
