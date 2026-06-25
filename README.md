@@ -1,4 +1,4 @@
-# Blood Bowl Card Creator
+# Blood Bowl Card Creator 
 
 A client-side web app for creating custom, print-ready Blood Bowl tabletop game cards. No backend required — everything runs in the browser using HTML5 Canvas.
 
