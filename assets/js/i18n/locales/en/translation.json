@@ -1,6 +1,6 @@
 {
     "head": {
-        "title": "Blood Bowl Créateur de cartes",
+        "title": "Blood Bowl Custom Card Creator",
         "description": "A client-side web app for creating custom, print-ready Blood Bowl tabletop game cards."
     },
     "nav":{
