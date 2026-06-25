@@ -34,4 +34,4 @@ Vanilla JavaScript, jQuery, Bootstrap 4, HTML5 Canvas, Jekyllxc
 
 ## Notes
 
-Modified from others who have done all the hard work. Just created a copy so I could host it online vs hosting it locally.
+Modified from others who have done all the hard work. Just created a copy so I could host it online vs hosting it locally. 
